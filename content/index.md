@@ -17,3 +17,6 @@ _欢迎来到低语花园。_
 
 - [[uiae/|宇宙、智能、以及一切]]
 	- [[about-free-will|关于自由意志]]
+	- [[language-model-agi|语言模型是 AGI 道路上的绊脚石吗]]
+	- [[human-objective-function|人类想要的是什么]]
+- [[tech/|流行技术]]
