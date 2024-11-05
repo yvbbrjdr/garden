@@ -1,3 +1,6 @@
+---
+title: 关于自由意志
+---
 自由意志（[Free Will](https://en.wikipedia.org/wiki/Free_will)）和意识（[Consciousness](https://en.wikipedia.org/wiki/Consciousness)）一直是一个很有趣的话题。若关于它们的问题能够得到解答，那我们就能理解真正的智能是否存在、以及世界上到底有没有“神”。
 
 定义这两个概念是一件很困难的事情，但如果我们不对它们进行良定义，那一切的讨论就都没有意义。而要对它们进行定义，首先我们可以看看什么东西没有自由意志和意识。
