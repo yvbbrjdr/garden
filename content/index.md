@@ -20,3 +20,6 @@ _欢迎来到低语花园。_
 	- [[language-model-agi|语言模型是 AGI 道路上的绊脚石吗]]
 	- [[human-objective-function|人类想要的是什么]]
 - [[tech/|流行技术]]
+	- [[language-model-calculations|语言模型参数量、计算量估计]]
+- [[snippets/|片段]]
+	- [[schema-extractor|Schema Extractor]]
